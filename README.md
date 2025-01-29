@@ -1,7 +1,7 @@
 # DeSpeed Bot auto send report speed test quality
 
 ![banner](./img/image.png)
-- website : [https://despeed.net](https://app.despeed.net/register?ref=EHP3FKKlEsK4)
+- website : [https://despeed.net](https://app.despeed.net/register?ref=2TWwR41TOIPT)
 
 ## Features
 
