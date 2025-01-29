@@ -9,7 +9,8 @@
 - **Auto Daily CheckIn**
 - **Support Multy Accounts**
 - **Support Proxy usage**
-
+- **There have limit 4 time to send speedtest result each day** so better to create a lot accounts
+ 
 ## Prerequisites
 
 - Node.js installed on your machine
@@ -18,6 +19,7 @@
 - login and inspect or F12 find application
 - in local storage find token and copy all value
     ![token](./img/image-1.png)
+
 ## Installation
 
 1. Clone the repository:
