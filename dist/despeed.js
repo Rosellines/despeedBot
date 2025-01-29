@@ -99,7 +99,7 @@ async function displayAccountInfo(token, proxy) {
             logger_js_1.default.info(`🌀 Points:`, profile?.data?.points || 0);
             logger_js_1.default.info(`🌀 Last Checkin:`, lastCheckIn);
             const now = new Date();
-            const Lastdate = lastCheckIn ? new Date(lastCheckIn) : new Date();
+            const Lastdate = new Date(lastCheckIn);
             const Lastday = Lastdate.getDate();
             if (Lastday < now.getDate()) {
                 logger_js_1.default.info(`🌀 Trying to Checkin Today...`);
